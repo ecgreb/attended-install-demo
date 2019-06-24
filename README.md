@@ -1,7 +1,7 @@
 # attended-install-demo
 Sample app to test post-install deep link on Android Q
 
-Reproduces [Android Q issue reported here](https://issuetracker.google.com/issues/135665165).
+Reproduces [Android Q issue reported here](https://issuetracker.google.com/issues/135665165) that prevents automatically launching a newly installed app via deep link.
 
 ### Steps to reproduce
 
