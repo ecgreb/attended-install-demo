@@ -5,10 +5,10 @@ Reproduces [Android Q issue reported here](https://issuetracker.google.com/issue
 
 ### Steps to reproduce
 
-0. Esure the Boxed app is not installed
-1. Build and run the app
+0. Ensure the Boxed app is not installed
+1. Build and run the sample app
 2. Click "Install App" button
-3. When redirected to play store, click "Install" to install the app
+3. When redirected to play store, click "Install" button to install Boxed
 
 ### Expected Behavior
 
